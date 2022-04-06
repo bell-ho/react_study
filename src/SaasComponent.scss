@@ -14,12 +14,10 @@
       @include square(1);
     }
 
-
     &.orange {
       background: $orange;
       @include square(2);
     }
-
 
     &.yellow {
       background: $yellow;
