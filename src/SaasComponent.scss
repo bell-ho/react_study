@@ -19,6 +19,7 @@
       @include square(2);
     }
 
+
     &.yellow {
       background: $yellow;
       @include square(3);
